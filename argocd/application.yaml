@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Chidi-creator/cor-downloader-infra.git
+    repoURL: https://github.com/Lex043/k8s-blog-api
     targetRevision: main
     path: k8s/manifests
 
